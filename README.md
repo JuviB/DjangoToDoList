@@ -1,1 +1,1 @@
-# DjangoToDoList
+# eBookstore
