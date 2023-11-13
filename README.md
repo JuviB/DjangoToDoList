@@ -28,15 +28,16 @@ The program can be downloaded onto any desktop and run on any IDE eg. Visual Stu
 # Usage
 As soon as the program is run, all book data that are currently inserted into the database is uploaded and available to be displayed and manipulated.
 The menu will then be displayed to the user with the various menu options: 
-Menu:
+
 1. Display all books
 2. Enter book
 3. Update book
 4. Delete book
 5. Search book
 0. Exit
+
 You will be required to select an option depending on the needs of the user, followed by system commands to guide you through each process.
 
 # Credits
-Guided by Hyperiondev
-Created by Juvaan Bechoo 
+○ Guided by Hyperiondev
+○ Created by Juvaan Bechoo 
