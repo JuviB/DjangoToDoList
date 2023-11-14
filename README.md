@@ -41,3 +41,6 @@ You will be required to select an option depending on the needs of the user, fol
 # Credits
 ○ Guided by Hyperiondev
 ○ Created by Juvaan Bechoo 
+
+# URL
+[Github Repository URL](https://github.com/JuviB/eBookstore.git)
