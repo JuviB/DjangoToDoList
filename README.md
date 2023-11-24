@@ -1,11 +1,11 @@
 # eBookstore
 
 ## Table of Contents:
-  -> Description of the project 
-  -> Importance of the project and what it does
-  -> Installation
-  -> Usage
-  -> Credits
+  - Description of the project 
+  - Importance of the project and what it does
+  - Installation
+  - Usage
+  - Credits
 
 ### Description of the project
 A database driven program that can be used by a bookstore clerk. The program displays a menu that allows the clerk to:
