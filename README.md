@@ -13,6 +13,7 @@ A database driven program that can be used by a bookstore clerk. The program dis
   - update book information
   - delete books from the database
   - search the database to find a specific book
+
 The database is created by means of a table that contains the following column headings for each book entry:
   - id
   - title
